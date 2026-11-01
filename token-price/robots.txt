@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yzx4036.github.io/token-price/sitemap.xml
